@@ -24,7 +24,7 @@ Seaborn : Higher-level library for Data Visualization <br/>
 ## Analyze the Dataset 
 - Decision Tree Model - accuracy of model 
 - Random Forest Classifier (RFC) - accuracy of model 
-- K-Means Clusterring (tfldf) - explanations for wrong prediction 
+- K-Means Clusterring - explanations for wrong prediction 
 
 ## Conclusion 
 - We are able to use Decision Tree Model and Random Forest Classifier to predict cuisines based on ingredients provided
